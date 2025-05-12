@@ -5,6 +5,7 @@ from tkinter import *
 
 root = Tk()
 root.configure(bg='black')
+root.title("Telegram Bot Takeover")
 Label(root,text="Bot Token",fg='white',width=10,bg='black').pack(pady=1)
 botoken = StringVar(root)
 Entry(root,textvariable=botoken,width=60).pack(pady=5)
