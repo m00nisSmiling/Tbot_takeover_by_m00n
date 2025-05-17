@@ -15,3 +15,6 @@
 #### Provide a telegram bot token like $ python gui.py [bot_token_here]
 #### Manually you can add bot token in gui.
 #### Use this exploit to secure cyberspace !
+
+# TBT GUI VIEW
+![Screenshot_2025-05-17_09_46_03](https://github.com/user-attachments/assets/dbb45616-0712-4cad-a93b-097a610925a4)
