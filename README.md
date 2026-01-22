@@ -3,6 +3,18 @@
 # Telegram Bot Control Center GUI
 </div>
 
+## Requirements/Supports
+- [Python3+](https://www.python.org/ftp/python/3.14.2/Python-3.14.2.tar.xz)
+- [Python-Tkinter](https://docs.python.org/3/library/tkinter.html)
+- Linux/Windows
+- No root or administrator permission to run
+- Identify telegram bot token
+- Check telegram bot activities of provided token
+- Transfer telegram bot activities to your web server
+- Send the message to specific chat as telegram bot using provided token
+- Upload and send file to a specific chat as telegram bot using provided token
+
+
 ## Installation
 ```
  $ pip install requests --break-system-packages
@@ -11,14 +23,6 @@
  $ cd Tbot_takeover_by_m00n
  $ python3 tboto.py [telegram_token]
 ```
-<br>
-
-## Main Functions
-- Identify telegram bot token
-- Check telegram bot activities of provided token
-- Transfer telegram bot activities to your web server
-- Send the message to specific chat as telegram bot using provided token
-- Upload and send file to a specific chat as telegram bot using provided token
 
 <br>
 
