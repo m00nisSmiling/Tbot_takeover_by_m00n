@@ -24,8 +24,6 @@
  $ python3 tboto.py [telegram_token]
 ```
 
-<br>
-
 ## Additional Usages
 
 - Manually you can add persistence telegram bot token in codes :
