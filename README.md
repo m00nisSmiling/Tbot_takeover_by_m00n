@@ -4,7 +4,6 @@
 
 </div>
 
-### this tool is just for educational purpose
 
 ## Installation
 ```
