@@ -13,6 +13,7 @@
 - Transfer telegram bot activities to your web server
 - Send the message to specific chat as telegram bot using provided token
 - Upload and send file to a specific chat as telegram bot using provided token
+- Developed By: [Moonissmiling](https://www.facebook.com/profile.php?id=61566986351368)
 
 
 ## Installation
