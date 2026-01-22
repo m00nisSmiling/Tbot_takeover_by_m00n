@@ -1,6 +1,6 @@
 <div align="center">
  
-# Telegram Bot Control Center GUI
+# Telegram Bot Tester GUI
 </div>
 
 ## Requirements/Supports
