@@ -17,7 +17,7 @@
 #### Manually you can add persistence telegram bot token in codes :
 ```
  $ nano tboto.py
- [!] Check "PREDEFINE_TOKEN" variable and add your token value in there
+ [!] Check "PREDEFINE_TOKEN" variable in there and add your token value
  [!] Save the file and use normally
 ```
 #### Exploit to cover Cyberspace.
