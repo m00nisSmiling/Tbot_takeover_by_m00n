@@ -258,6 +258,8 @@ Entry(
 try:
 	botoken.set(sys.argv[1])
 except IndexError:
+	PREDEFINE_TOKEN = "" 
+	botoken.set(PREDEFINE_TOKEN)
 	pass
 
 btn_frame = Frame(root, bg="black")
