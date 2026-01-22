@@ -17,26 +17,26 @@
 
 ## Installation
 ```
- $ pip install requests --break-system-packages
+pip install requests --break-system-packages
 ```
 ```
- $ sudo apt install python3-tk
+sudo apt install python3-tk
 ```
 ```
- $ git clone https://github.com/m00nisSmiling/tbotakeover-by-moon.git
+git clone https://github.com/m00nisSmiling/tbotakeover-by-moon.git
 ```
 ```
- $ cd Tbot_takeover_by_m00n
+cd Tbot_takeover_by_m00n
 ```
 ```
- $ python3 tboto.py [telegram_token]
+python3 tboto.py [telegram_token]
 ```
 
 ## Additional Usages
 
 - Manually you can add persistence telegram bot token in codes :
 ```
- $ nano tboto.py
+nano tboto.py
 ```
 - [!] Check "PREDEFINE_TOKEN" variable in there and add your token value
 - [!] Save the file and use normally
