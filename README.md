@@ -30,8 +30,8 @@
 ```
  $ nano tboto.py
 ```
--- [!] Check "PREDEFINE_TOKEN" variable in there and add your token value
--- [!] Save the file and use normally
+- [!] Check "PREDEFINE_TOKEN" variable in there and add your token value
+- [!] Save the file and use normally
 
 
 ## TBT GUI VIEW
