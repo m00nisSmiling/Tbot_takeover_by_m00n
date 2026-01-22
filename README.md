@@ -1,7 +1,6 @@
 <div align="center">
  
-# Telegram bot takeover using token leakage exploit GUI
-
+# Telegram Bot Control Center GUI
 </div>
 
 
