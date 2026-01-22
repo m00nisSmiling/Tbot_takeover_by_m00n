@@ -2,7 +2,6 @@
  
 # Telegram Bot Control Center GUI
 </div>
-<hr>
 
 ## Installation
 ```
