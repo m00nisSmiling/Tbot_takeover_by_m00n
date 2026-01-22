@@ -29,9 +29,10 @@
 - Manually you can add persistence telegram bot token in codes :
 ```
  $ nano tboto.py
- [!] Check "PREDEFINE_TOKEN" variable in there and add your token value
- [!] Save the file and use normally
 ```
+-- [!] Check "PREDEFINE_TOKEN" variable in there and add your token value
+-- [!] Save the file and use normally
+
 
 ## TBT GUI VIEW
 <img width="1920" height="1039" alt="Screenshot_2026-01-22_17_01_03" src="https://github.com/user-attachments/assets/08485781-4877-4337-afb0-d662f825267b" />
