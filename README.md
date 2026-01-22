@@ -11,7 +11,6 @@
  $ cd Tbot_takeover_by_m00n
  $ python3 tboto.py [telegram_token]
 ```
-<hr>
 
 ## Main Functions
 - Identify telegram bot token
@@ -21,7 +20,6 @@
 - Upload and send file to a specific chat as telegram bot using provided token
 
 
-<hr>
 
 ## Additional Usages
 
